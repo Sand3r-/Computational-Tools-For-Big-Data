@@ -1,0 +1,97 @@
+This is makeindex, version 2.15 [MiKTeX 2.9.6100 64-bit] (kpathsea + Thai support).
+Scanning input file main...
+!! Input index error (file = main, line = 1):
+   -- Unknown index keyword \documentclass[12pt].
+!! Input index error (file = main, line = 2):
+   -- Unknown index keyword \usepackage[utf8].
+!! Input index error (file = main, line = 3):
+   -- Unknown index keyword \usepackage[margin=1in].
+!! Input index error (file = main, line = 4):
+   -- Unknown index keyword \usepackage.
+!! Input index error (file = main, line = 5):
+   -- Unknown index keyword \usepackage.
+!! Input index error (file = main, line = 6):
+   -- Unknown index keyword \usepackage.
+!! Input index error (file = main, line = 7):
+   -- Unknown index keyword \usepackage.
+!! Input index error (file = main, line = 8):
+   -- Unknown index keyword \usepackage[colorlinks=true].
+!! Input index error (file = main, line = 9):
+   -- Unknown index keyword \definecolor.
+!! Input index error (file = main, line = 10):
+   -- Unknown index keyword \setminted[python].
+!! Input index error (file = main, line = 11):
+   -- Unknown index keyword \setminted[bash].
+!! Input index error (file = main, line = 14):
+   -- Unknown index keyword \title.
+!! Input index error (file = main, line = 16):
+   -- Unknown index keyword \begin.
+!! Input index error (file = main, line = 17):
+   -- Unknown index keyword \begin.
+!! Input index error (file = main, line = 18):
+   -- Unknown index keyword \textit.
+!! Input index error (file = main, line = 19):
+   -- Unknown index keyword \end.
+!! Input index error (file = main, line = 20):
+   -- Unknown index keyword \section*.
+!! Input index error (file = main, line = 21):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = main, line = 22):
+   -- Unknown index keyword \section*.
+!! Input index error (file = main, line = 23):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = main, line = 25):
+   -- Unknown index keyword \texttt.
+!! Input index error (file = main, line = 26):
+   -- Unknown index keyword \section*.
+!! Input index error (file = main, line = 27):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = main, line = 28):
+   -- Unknown index keyword convertuppertolowercase.Allofthesehavebeenachievedusing\texttt.
+!! Input index error (file = main, line = 30):
+   -- Unknown index keyword Apartfromtheaforementioned,thescriptsaveseacharticleasalinetofilecalled\texttt.
+!! Input index error (file = main, line = 32):
+   -- Unknown index keyword \texttt.
+!! Input index error (file = main, line = 34):
+   -- Unknown index keyword Whichislateronusedby\texttt.
+!! Input index error (file = main, line = 36):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = main, line = 37):
+   -- Unknown index keyword \begin.
+!! Input index error (file = main, line = 38):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = main, line = 39):
+   -- Unknown index keyword \end.
+!! Input index error (file = main, line = 41):
+   -- Unknown index keyword \section*.
+!! Input index error (file = main, line = 42):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = main, line = 43):
+   -- Unknown index keyword \begin.
+!! Input index error (file = main, line = 44):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = main, line = 45):
+   -- Unknown index keyword \end.
+!! Input index error (file = main, line = 46):
+   -- Unknown index keyword where\texttt.
+!! Input index error (file = main, line = 47):
+   -- Unknown index keyword \begin.
+!! Input index error (file = main, line = 48):
+   -- Unknown index keyword \item\texttt.
+!! Input index error (file = main, line = 49):
+   -- Unknown index keyword \item\texttt.
+!! Input index error (file = main, line = 50):
+   -- Unknown index keyword \end.
+!! Input index error (file = main, line = 52):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = main, line = 53):
+   -- Unknown index keyword \begin.
+!! Input index error (file = main, line = 54):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = main, line = 55):
+   -- Unknown index keyword \end.
+!! Input index error (file = main, line = 57):
+   -- Unknown index keyword \end.
+done (0 entries accepted, 46 rejected).
+Nothing written in main.ind.
+Transcript written in main.ilg.

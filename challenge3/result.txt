@@ -1,0 +1,30 @@
+0.969923309396
+
+real    67m8.360s
+user    0m0.795s
+sys     0m1.278s
+
+10 features, 8 length
+$ python rand_finder.py 1 0
+0.973048612311
+
+That is when having 10 length hash and 10 features
+$ python rand_finder.py 0 2
+0.973278956563
+
+
+bicubic.py
+1 1
+
+$ python rand_finder.py 1 1
+0.981947795236
+
+fp16
+$ python rand_finder.py 2 0
+0.983544952244
+
+I'm after producer join
+I'm after thread joins
+Execution time:  3286.3555396
+602455
+0.983544952244

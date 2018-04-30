@@ -1,0 +1,3 @@
+cat temp | sed -e "s/^\"//g" -e "s/\"$//g" -e "s/&lt;/</g" -e "s/&gt;/>/g" -e "s/\&quot;/\"/g" -e "s/\&amp;/\&/g" | sort > truth
+cut -f 3 * | sort > check
+comm -3 check truth

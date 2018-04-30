@@ -1,0 +1,23 @@
+Ten subreddits with deepest average comment threads:
+[Subreddit ID: t5_2zlk4 | Subreddit name: EroticRolePlay | Average thread
+ depth: 118.73333333333333]
+[Subreddit ID: t5_366p4 | Subreddit name: TheTwoCenturions | Average thre
+ad depth: 86.5]
+[Subreddit ID: t5_33wg4 | Subreddit name: SburbRP | Average thread depth:
+ 80.65306122448979]
+[Subreddit ID: t5_2zjgs | Subreddit name: roleplayponies | Average thread
+ depth: 74.0]
+[Subreddit ID: t5_359bv | Subreddit name: DigitalMonsterRP | Average thre
+ad depth: 70.0]
+[Subreddit ID: t5_323vp | Subreddit name: GalacticGuardians | Average thr
+ead depth: 61.63636363636363]
+[Subreddit ID: t5_31ryx | Subreddit name: ksrp | Average thread depth: 59
+.5]
+[Subreddit ID: t5_2x15g | Subreddit name: ExploreFiction | Average thread
+ depth: 53.208333333333336]
+[Subreddit ID: t5_32b0g | Subreddit name: PrivateFiction | Average thread
+ depth: 52.53333333333333]
+[Subreddit ID: t5_3272o | Subreddit name: RidersOfBerk | Average thread d
+epth: 37.0]
+Execution time: 1145.7725343704224 seconds.
+

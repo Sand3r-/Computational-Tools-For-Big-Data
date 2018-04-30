@@ -1,0 +1,177 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.30.0-wmf.14</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>AccessibleComputing</title>
+    <ns>0</ns>
+    <id>10</id>
+    <redirect title="Computer accessibility" />
+    <revision>
+      <id>767284433</id>
+      <parentid>631144794</parentid>
+      <timestamp>2017-02-25T00:30:28Z</timestamp>
+      <contributor>
+        <username>Godsy</username>
+        <id>23257138</id>
+      </contributor>
+      <comment>[[Template:This is a redirect]] has been deprecated, change to [[Template:Redirect category shell]].</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Computer accessibility]]
+
+{{Redirect category shell|
+{{R from move}}
+{{R from CamelCase}}
+{{R unprintworthy}}
+}}</text>
+      <sha1>ds1crfrjsn7xv73djcs4e4aq9niwanx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Anarchism</title>
+    <ns>0</ns>
+    <id>12</id>
+    <revision>
+      <id>795583798</id>
+      <parentid>795583730</parentid>
+      <timestamp>2017-08-15T05:02:43Z</timestamp>
+      <contributor>
+        <ip>201.183.143.248</ip>
+      </contributor>
+      <comment>Undid revision 795583269 by [[Special:Contributions/2601:204:C404:27D2:9C42:2F6F:4B2D:1EDD]] Nonconstructive.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Redirect2|Anarchist|Anarchists|the fictional character|Anarchist (comics)|other uses|Anarchists (disambiguation)}}
+{{pp-move-indef}}
+{{Use British English|date=January 2014}}
+{{Anarchism sidebar}}
+{{Basic forms of government}}
+
+'''Anarchism''' is a [[political philosophy]] that advocates [[self-governance|self-governed]] societies based on voluntary institutions. These are often described as [[stateless society|stateless societies]],&lt;ref&gt;&quot;ANARCHISM, a social philosophy that rejects authoritarian government and maintains that voluntary institutions are best suited to express man's natural social tendencies.&quot; George Woodcock. &quot;Anarchism&quot; at The Encyclopedia of Philosophy&lt;/ref&gt;&lt;ref&gt;&quot;In a society developed on these lines, the voluntary associations which already now begin to cover all the fields of human activity would take a still greater extension so as to substitute themselves for the state in all its functions.&quot; [http://www.theanarchistlibrary.org/HTML/Petr_Kropotkin___Anarchism__from_the_Encyclopaedia_Britannica.html Peter Kropotkin. &quot;Anarchism&quot; from the Encyclopædia Britannica]&lt;/ref&gt;&lt;ref&gt;&quot;Anarchism.&quot; The Shorter Routledge Encyclopedia of Philosophy. 2005. p. 14 &quot;Anarchism is the view that a society without the state, or government, is both possible and desirable.&quot;&lt;/ref&gt;&lt;ref&gt;Sheehan, Sean. Anarchism, London: Reaktion Books Ltd., 2004. p. 85&lt;/ref&gt; although several authors have defined them more specifically as institutions based on non-[[Hierarchy|hierarchical]] [[Free association (communism and anarchism)|free associations]].&lt;ref&gt;&quot;as many anarchists have stressed, it is not government as such that they find objectionable, but the hierarchical forms of government associated with the nation state.&quot; Judith Suissa. ''Anarchism and Education: a Philosophical Perspective''. Routledge. New York. 2006. p. 7&lt;/ref&gt;&lt;ref name=&quot;iaf-ifa.org&quot;&gt;{{cite web |url=http://www.iaf-ifa.org/principles/english.html |title=IAF principles |publisher=[[International of Anarchist Federations]] |archiveurl=https://web.archive.org/web/20120105095946/http://www.iaf-ifa.org/principles/english.html |archivedate=5 January 2012 |deadurl=yes |quote=The IAF – IFA fights for : the abolition of all forms of authority whether economical, political, social, religious, cultural or sexual.}}&lt;/ref&gt;&lt;ref&gt;&quot;That is why Anarchy, when it works to destroy authority in all its aspects, when it demands the abrogation of laws and the abolition of the mechanism that serves to impose them, when it refuses all hierarchical organization and preaches free agreement — at the same time strives to maintain and enlarge the precious kernel of social customs without which no human or animal society can exist.&quot; [[Peter Kropotkin]]. [http://www.theanarchistlibrary.org/HTML/Petr_Kropotkin__Anarchism__its_philosophy_and_ideal.html Anarchism: its philosophy and ideal]&lt;/ref&gt;&lt;ref&gt;&quot;anarchists are opposed to irrational (e.g., illegitimate) authority, in other words, hierarchy — hierarchy being the institutionalization of authority within a society.&quot; [http://www.theanarchistlibrary.org/HTML/The_Anarchist_FAQ_Editorial_Collective__An_Anarchist_FAQ__03_17_.html#toc2 &quot;B.1 Why are anarchists against authority and hierarchy?&quot;] in [[An Anarchist FAQ]]&lt;/ref&gt; Anarchism holds the [[state (polity)|state]] to be undesirable, unnecessary, and harmful.&lt;ref name=&quot;definition&quot;&gt;
+{{cite journal |last=Malatesta|first=Errico|title=Towards Anarchism|journal=MAN!|publisher=International Group of San Francisco|location=Los Angeles|oclc=3930443|url=http://www.marxists.org/archive/malatesta/1930s/xx/toanarchy.htm|archiveurl=https://web.archive.org/web/20121107221404/http://marxists.org/archive/malatesta/1930s/xx/toanarchy.htm|archivedate=7 November 2012 |deadurl=no|authorlink=Errico Malatesta |ref=harv}}
+{{cite journal |url=http://www.theglobeandmail.com/servlet/story/RTGAM.20070514.wxlanarchist14/BNStory/lifeWork/home/
+|archiveurl=https://web.archive.org/web/20070516094548/http://www.theglobeandmail.com/servlet/story/RTGAM.20070514.wxlanarchist14/BNStory/lifeWork/home |archivedate=16 May 2007 |deadurl=yes |title=Working for The Man |journal=[[The Globe and Mail]] |accessdate=14 April 2008 |last=Agrell |first=Siri |date=14 May 2007 |ref=harv }}
+{{cite web |url=http://www.britannica.com/eb/article-9117285|title=Anarchism|year=2006|work=Encyclopædia Britannica|publisher=Encyclopædia Britannica Premium Service|accessdate=29 August 2006| archiveurl= https://web.archive.org/web/20061214085638/http://www.britannica.com/eb/article-9117285| archivedate= 14 December 2006&lt;!--Added by DASHBot--&gt;}}
+{{cite journal |year=2005|title=Anarchism|journal=The Shorter [[Routledge Encyclopedia of Philosophy]]|page=14|quote=Anarchism is the view that a society without the state, or government, is both possible and desirable. |ref=harv}}
+The following sources cite anarchism as a political philosophy:
+{{cite book | last = Mclaughlin | first = Paul | title = Anarchism and Authority | publisher = Ashgate | location = Aldershot | year = 2007 | isbn = 978-0754661962 |page=59}}
+{{cite book | last = Johnston | first = R. | title = The Dictionary of Human Geography | publisher = Blackwell Publishers | location = Cambridge | year = 2000 | isbn = 0-631-20561-6 |page=24}}&lt;/ref&gt;&lt;ref name=slevin&gt;Slevin, Carl. &quot;Anarchism.&quot; ''The Concise Oxford Dictionary of Politics''. Ed. Iain McLean and Alistair McMillan. Oxford University Press, 2003.&lt;/ref&gt;</text>
+      <sha1>o49bvdvn4ndvkzh6kh2bjq1bilfafpe</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>SV Marken</title>
+    <ns>0</ns>
+    <id>54967572</id>
+    <revision>
+      <id>796438199</id>
+      <parentid>796433785</parentid>
+      <timestamp>2017-08-20T20:55:38Z</timestamp>
+      <contributor>
+        <username>Gidonb</username>
+        <id>31749</id>
+      </contributor>
+      <comment>expanded</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''Sportvereniging Marken''' (Dutch for ''Sport Club Marken'', commonly shortened to '''CV Marken''', or just Marken) is an [[association football]] club from [[Marken]], [[Netherlands]]. The football club was founded in 1946. It has as a Christian background, that was never was included in its name. It plays in the 2017-18 [[Eerste Klasse]] Saturday after promoting in 2017. 
+
+Marken reached the quarterfinals of the [[KNVB Cup]], where it lost 0-1 from [[FC Den Haag]]. Its best known player is [[Kelly Zeeman]], a girl from Marken who played in SV Marken boys and men teams.&lt;ref name=meest/&gt; She went on to win the [[EuroCup Women]] with the [[Netherlands women's national football team]]. Her father, Klaas Zeeman, had played in the match against FC Den Haag. Her partner plays currently for SV Marken.&lt;ref name=meest/&gt;
+
+==History==
+Founded in 1946, the club played in local leagues and the [[Vierde Klasse]] until 1966. It then had only run in the [[Derde Klasse]] that lasted until 1974 and ended with SV Marken's first section championship. The season after, ending in 1975, it achieved its second championship in the [[Tweede Klasse]] and made it for 2 years into the [[Eerste Klasse]] until relegation. The second run in the Tweede lasted considerably longer and ended with a 3rd championship in 1984.
+
+In the [[1985–86 KNVB Cup]] SV Marken created a sensation when it reached the quarterfinals, losing just 0-1 against the professional side [[FC Den Haag]].&lt;ref name=nd010569964&gt;{{cite news|title=Nederlaag voor Marken in kwartfinale|work=[[Nederlands Dagblad]]|location=[[Amersfoort]]|date=1986-04-24|accessdate=2017-08-20|url=http://resolver.kb.nl/resolve?urn=ddd:010569964:mpeg21:a0091|quote=Afgelopen dinsdagavond ontmoette zaterdagamateurclub Marken [[FC Den Haag]] in de kwartfinale om de [[KNVB Cup|KNVB-beker]]. Op [[IJsselmeervogels]] na is nog nooit een amateurclub zover doorgedrongen in het toernooi om de KNVB-beker. [...] Door een fout van Marken-doelman John Koks ging FC Den Haag uiteindelijk met een magere 0-1 winst strijken.}}&lt;/ref&gt; No club but [[IJsselmeervogels]] had made it to it so far in National Cup before SV Marken.&lt;ref name=nd010569964/&gt; The home game for Marken was played in neighboring [[Volendam]] so sufficient football supporters could attend the game.&lt;ref name=nd010569964/&gt;
+
+From 1984 to 2006 SV Marken spent most seasons in the Eerste Klasse with 3 year and 4 year runs in the [[Hoofdklasse]] in the late 1990s and early 2000s. During these years it achieved its best leagues result ever, 4th place in Hoofdklasse, in 1997 and secured an Eerste Klasse championship in 2001.
+
+Since 2006 the Marken men play mostly Tweede Klasse again with an interlude in the Eerste Klasse from 2010 to 2014. In 2017 Marken promoted from 7th position [[Tweede Klasse]] into the Eerste Klasse.
+
+==Notable former players==
+* [[Kelly Zeeman]]&lt;ref name=meest&gt;https://www.nieuw-volendam.nl/nieuwvolendam/edam-volendam/volendam/sport/dit-is-nu-al-het-meest-succesvolle-jaar-uit-mijn-loopbaan&lt;/ref&gt;
+
+==References==
+{{reflist}}
+{{Eerste Klasse}}
+
+[[Category:Football clubs in the Netherlands]]
+[[Category:1946 establishments in the Netherlands]]</text>
+      <sha1>b274duo5s5c1zpeqaifexhx507t7zxj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>TEST XD</title>
+    <text xml:space="preserve" /> 
+  </page>
+  <page>
+    <title>Some text</title>
+    <text xml:space="preserve">test</text> 
+  </page>
+  <page>
+    <title>AccessibleComputing</title>
+    <ns>0</ns>
+    <id>10</id>
+    <redirect title="Computer accessibility" />
+    <revision>
+      <id>767284433</id>
+      <parentid>631144794</parentid>
+      <timestamp>2017-02-25T00:30:28Z</timestamp>
+      <contributor>
+        <username>Godsy</username>
+        <id>23257138</id>
+      </contributor>
+      <comment>[[Template:This is a redirect]] has been deprecated, change to [[Template:Redirect category shell]].</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Computer accessibility]]
+
+{{Redirect category shell|
+{{R from move}}
+{{R from CamelCase}}
+{{R unprintworthy}}
+}}</text>
+      <sha1>ds1crfrjsn7xv73djcs4e4aq9niwanx</sha1>
+    </revision>
+  </page>
+</mediawiki>

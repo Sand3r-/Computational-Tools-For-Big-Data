@@ -1,0 +1,50 @@
+      <comment>Tavix moved page [[Sennefer, Chancellor]] to [[Sennefer (treasurer)]]: The term used seems to be &quot;treasurer&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Sennefer (treasurer)]]
+
+{{R from move}}</text>
+      <sha1>o49bvdvn4ndvkzh6kh2bjq1bilfafpe</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>SV Marken</title>
+    <ns>0</ns>
+    <id>54967572</id>
+    <revision>
+      <id>796438199</id>
+      <parentid>796433785</parentid>
+      <timestamp>2017-08-20T20:55:38Z</timestamp>
+      <contributor>
+        <username>Gidonb</username>
+        <id>31749</id>
+      </contributor>
+      <comment>expanded</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''Sportvereniging Marken''' (Dutch for ''Sport Club Marken'', commonly shortened to '''CV Marken''', or just Marken) is an [[association football]] club from [[Marken]], [[Netherlands]]. The football club was founded in 1946. It has as a Christian background, that was never was included in its name. It plays in the 2017-18 [[Eerste Klasse]] Saturday after promoting in 2017. 
+
+Marken reached the quarterfinals of the [[KNVB Cup]], where it lost 0-1 from [[FC Den Haag]]. Its best known player is [[Kelly Zeeman]], a girl from Marken who played in SV Marken boys and men teams.&lt;ref name=meest/&gt; She went on to win the [[EuroCup Women]] with the [[Netherlands women's national football team]]. Her father, Klaas Zeeman, had played in the match against FC Den Haag. Her partner plays currently for SV Marken.&lt;ref name=meest/&gt;
+
+==History==
+Founded in 1946, the club played in local leagues and the [[Vierde Klasse]] until 1966. It then had only run in the [[Derde Klasse]] that lasted until 1974 and ended with SV Marken's first section championship. The season after, ending in 1975, it achieved its second championship in the [[Tweede Klasse]] and made it for 2 years into the [[Eerste Klasse]] until relegation. The second run in the Tweede lasted considerably longer and ended with a 3rd championship in 1984.
+
+In the [[1985–86 KNVB Cup]] SV Marken created a sensation when it reached the quarterfinals, losing just 0-1 against the professional side [[FC Den Haag]].&lt;ref name=nd010569964&gt;{{cite news|title=Nederlaag voor Marken in kwartfinale|work=[[Nederlands Dagblad]]|location=[[Amersfoort]]|date=1986-04-24|accessdate=2017-08-20|url=http://resolver.kb.nl/resolve?urn=ddd:010569964:mpeg21:a0091|quote=Afgelopen dinsdagavond ontmoette zaterdagamateurclub Marken [[FC Den Haag]] in de kwartfinale om de [[KNVB Cup|KNVB-beker]]. Op [[IJsselmeervogels]] na is nog nooit een amateurclub zover doorgedrongen in het toernooi om de KNVB-beker. [...] Door een fout van Marken-doelman John Koks ging FC Den Haag uiteindelijk met een magere 0-1 winst strijken.}}&lt;/ref&gt; No club but [[IJsselmeervogels]] had made it to it so far in National Cup before SV Marken.&lt;ref name=nd010569964/&gt; The home game for Marken was played in neighboring [[Volendam]] so sufficient football supporters could attend the game.&lt;ref name=nd010569964/&gt;
+
+From 1984 to 2006 SV Marken spent most seasons in the Eerste Klasse with 3 year and 4 year runs in the [[Hoofdklasse]] in the late 1990s and early 2000s. During these years it achieved its best leagues result ever, 4th place in Hoofdklasse, in 1997 and secured an Eerste Klasse championship in 2001.
+
+Since 2006 the Marken men play mostly Tweede Klasse again with an interlude in the Eerste Klasse from 2010 to 2014. In 2017 Marken promoted from 7th position [[Tweede Klasse]] into the Eerste Klasse.
+
+==Notable former players==
+* [[Kelly Zeeman]]&lt;ref name=meest&gt;https://www.nieuw-volendam.nl/nieuwvolendam/edam-volendam/volendam/sport/dit-is-nu-al-het-meest-succesvolle-jaar-uit-mijn-loopbaan&lt;/ref&gt;
+
+==References==
+{{reflist}}
+{{Eerste Klasse}}
+
+[[Category:Football clubs in the Netherlands]]
+[[Category:1946 establishments in the Netherlands]]</text>
+      <sha1>b274duo5s5c1zpeqaifexhx507t7zxj</sha1>
+    </revision>
+  </page>
+</mediawiki>

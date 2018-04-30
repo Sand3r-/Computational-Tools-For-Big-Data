@@ -1,0 +1,21 @@
+Output the number of matches, and then just the matches (the string that matches). Use one row for the number of matches and one row for each match. Like:
+
+3
+the cat in the hat
+the cat with the hat
+the cat has a hat
+
+Q Can we assume that the strings given are whole single words or do we need to be able to hande multiple words in a string, or partial words?
+
+A It can be multiple and partial words
+
+Q So this could be a query to test?
+"na fish" [4,9] "oon run"
+
+A Yes
+
+Example query result:
+https://gist.githubusercontent.com/m1so/4486c31a0ec0d38f0bd9b28b93c887a0/raw/f6de0b665147ddbc37cceb7b1531bcb28b06c1f5/challenge1_cat_query.txt
+'"cats" [0,10] "are" [0,10] "to"'
+3mins to run
+

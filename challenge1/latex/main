@@ -1,0 +1,57 @@
+\documentclass[12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=1in]{geometry}
+\usepackage{minted}
+\usepackage{parskip}
+\usepackage{xcolor}
+\usepackage{graphicx}
+\usepackage[colorlinks=true]{hyperref}
+\definecolor{LightGray}{gray}{0.97}
+\setminted[python]{baselinestretch=1.2,tabsize=4,bgcolor=LightGray,fontsize=\footnotesize,linenos}
+\setminted[bash]{baselinestretch=1.2,bgcolor=LightGray,fontsize=\footnotesize,linenos, breaklines}
+
+
+\title{02807 Submission - Week 4+5: Wiki query}
+
+\begin{document}
+\begin{center}
+    \textit{Tested on Win 7, Python 3.5.2}
+\end{center}
+\section*{Source code}
+The source code associated with following report can be obtained at: TODO
+\section*{Database version}
+Version of database of english articles of wikipedia used:
+
+\texttt{enwiki-20170820-pages-articles-multistream.xml}
+\section*{Preprocessing}
+In order to have queries running smoothly, the xml file had to undergo processing which would strip the article off the metadata, replace spaces with new lines, 
+convert upper to lower case. All of these have been achieved using \texttt{preprocessing.py} enclosed in the repository.
+
+Apart from the aforementioned, the script saves each article as a line to file called \texttt{database.txt} while saving the following data about each article to \texttt{index.txt}:
+
+\texttt{article\_name:offset:size}
+
+Which is later on used by \texttt{query.py} to find articles.
+
+to run the preprocessing one needs to issue:
+\begin{minted}{bash}
+python preprocessing.py wiki-xml-file.xml
+\end{minted}
+
+\section*{Querying}
+In order to run query on the database, one needs to issue command
+\begin{minted}{bash}
+python query.py "examplary" [0,0] "query" articleNameOrRegex
+\end{minted}
+where \texttt{articleNameOrRegex} is the name of the article (exact) or regex such that:
+\begin{enumerate}
+    \item \texttt{A.*} - Finds all articles starting with letter \texttt{A}
+    \item \texttt{.*} - Finds all articles
+\end{enumerate}
+
+The operation of query.py file can be divided into:
+\begin{enumerate}
+    \item 
+\end{enumerate}
+
+\end{document}
